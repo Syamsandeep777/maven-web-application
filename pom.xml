@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Srinivas Snapshot Nexus Repository </name>
+	      <name>Srinivas Snapshot Nexus Repository</name>
 	      <url>http://54.234.44.165:7777/srinivas/repository/srinivas-Snapshot/</url>
 	    </snapshotRepository>
 	    
