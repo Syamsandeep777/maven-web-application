@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Srinivas Release Nexus Repository</name>
-	      <url>http://54.234.44.165:7777/srinivas/repository/srinivas-Release/</url>
+	      <name>KRSgroup Release Nexus Repository</name>
+	      <url>http://18.219.102.148:8081/repository/krsgroup-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Srinivas Snapshot Nexus Repository</name>
-	      <url>http://54.234.44.165:7777/srinivas/repository/srinivas-Snapshot/</url>
+	      <name>KRSgroup Snapshot Nexus Repository</name>
+	      <url>http://18.219.102.148:8081/repository/krsgroup-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
