@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KRSgroup Release Nexus Repository</name>
-	      <url>http://18.219.102.148:8081/repository/krsgroup-Release/</url>
+	      <name>icicibank Release Nexus Repository</name>
+	      <url>http://54.65.125.173:8081/repository/ICICIbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KRSgroup Snapshot Nexus Repository</name>
-	      <url>http://18.219.102.148:8081/repository/krsgroup-Snapshot/</url>
+	      <name>icicibank Snapshot Nexus Repository</name>
+	      <url>http://54.65.125.173:8081/repository/ICICIbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
